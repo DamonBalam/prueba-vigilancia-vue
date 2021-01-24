@@ -1,3 +1,3 @@
 # app-vigilancia
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Demo](https://vue-vigilancia.netlify.app/).
